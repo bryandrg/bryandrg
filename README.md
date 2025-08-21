@@ -22,7 +22,7 @@ Currently:     Diving deeper into full-stack development & user-centered design
 ## 🌟 A bit about my journey
 
 🎓 **Computer Science degree** from New Mexico State University (Dec 2024)  
-🌎 **Bilingual** – Native Spanish, fluent English (Oaxaca → 7 years in the US → back home in Mexico)  
+🌎 **Bilingual** – Native Spanish, fluent English (born & raised in Oaxaca → 7 years in the US → back home in Mexico)  
 💼 **Real-world experience** – Worked part-time through university, including managing teams  
 🎯 **Design-minded** – I actually enjoy thinking about wireframes and user flows  
 
