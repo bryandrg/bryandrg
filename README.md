@@ -9,7 +9,7 @@ I believe the best technology feels invisible. *It just works.* I'm passionate a
 ## 🚀 What I'm focused on
 
 - **Building for real users**: Currently maintaining my personal website ([david.computer](https://david.computer)) built from scratch with pure HTML, CSS, and JavaScript
-- **Sharpening my skills**: Daily LeetCode practice (60+ days and counting), strengthening my data structures and algorithms foundation
+- **Sharpening my skills**: Daily LeetCode practice (90+ days and counting), strengthening my data structures and algorithms foundation
 - **Seeking opportunities**: Searching for my first software engineering role where I can build things people actually *want* to use
 ## 🛠️ My toolkit
 
